@@ -1,3 +1,6 @@
+// Assignment has been submitted the way Jhankar Mahbub bhaiya told. Kindly check. 
+// Last time I followed but admin panel rejected that.
+
 // https://github.com/ishratzahan6102/Third-Assignment
 
 // Problem : (1)
