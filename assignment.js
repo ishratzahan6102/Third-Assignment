@@ -1,4 +1,4 @@
-
+// https://github.com/ishratzahan6102/Third-Assignment
 
 // Problem : (1)
 
@@ -52,8 +52,6 @@ else{
 
 // Problem : (4)
 
-// get the array.
-// check if "a" is smaller than "b" and then replace a.
 
 function megaFriend(element){
 var result = "";
